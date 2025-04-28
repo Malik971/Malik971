@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Malik Ibo</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=EBD41B&center=true&vCenter=true&lines=Front-End+Developer;React.js+%7C+JavaScript+%7C+Node.js;Passionate+about+UI%2FUX+Design;Team+Player+%26+Problem+Solver">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=EBD41B&center=true&vCenter=true&lines=Front-End+Developer;Full-Stack+Developer;React.js+%7C+Java+%7C+Spring+Boot;Cloud+Deployment+with+Render.io;Passionate+about+Clean+Code+%26+Automation">
 </p>
 
-<h3 align="center">Building modern, responsive, and interactive web applications.</h3>
+<h3 align="center">Building modern, responsive, and cloud-powered web applications.</h3>
 
-- 🔭 I’m currently **available for a Front-End Developer role**.  
-- 🌱 I’m focused on **React.js, UI/UX Design & Performance Optimization**.  
-- 👯 I’m looking to collaborate on **creative and interactive web projects**.  
-- 💡 I have experience in **Figma & Trello for project management**.  
+- 🔭 I’m currently **available for a Front-End / Full-Stack Developer role**.  
+- 🌱 I’m focused on **React.js, Java Spring Boot, and Cloud Deployment**.  
+- 👯 I’m looking to collaborate on **cloud-ready applications and AI-enhanced platforms**.  
+- 💡 I have experience in **Figma, Trello, GitHub, and deployment on Render.io**.  
 - 👨‍💻 Check out my portfolio: [portfolio-ibo.netlify.app](https://main--portfolio-ibo.netlify.app/)  
-- 📫 How to reach me: **malik97un@gmail.com**  
+- 📫 How to reach me: **malik97un@gmail.com**
 
 ---
 
@@ -42,13 +42,39 @@
     </a>
 </p>
 
-<h3 align="center">Backend & Databases</h3>
+<h3 align="center">Backend Development & APIs</h3>
 <p align="center">
     <a href="https://nodejs.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
     </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+    </a>
+    <a href="https://www.java.com/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    </a>
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+    </a>
+    <a href="https://www.h2database.com/html/main.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/H2_Logo.svg/120px-H2_Logo.svg.png" alt="H2 Database" width="50" height="50"/>
+    </a>
+</p>
+
+<h3 align="center">Cloud Deployment & CI/CD</h3>
+<p align="center">
+    <a href="https://render.com/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/45035929?s=200&v=4" alt="Render.io" width="50" height="50"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
     </a>
 </p>
 
@@ -62,12 +88,3 @@
     </a>
 </p>
 
-<h3 align="center">Version Control & Deployment</h3>
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-    </a>
-    <a href="https://vercel.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="50" height="50"/>
-    </a>
-</p>
